@@ -12,7 +12,7 @@
 
 ### About me
 
-Self-taught iOS developer with 6 years of SwiftUI experience. I build focused, health-forward apps that feel native on every Apple platform. I care about clean architecture, great UX, and shipping things that actually work on device.
+Self-taught iOS developer with 6 years of SwiftUI experience. I build focused, health-forward apps that feel native on every Apple platform. I care about clean architecture, great UX, and shipping things that actually work on a device.
 
 - 🏋️ Fitness & health apps are my domain
 - ⌚ Deep in watchOS + HealthKit development
