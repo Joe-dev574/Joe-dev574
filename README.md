@@ -32,16 +32,6 @@ Self-taught iOS developer with 6 years of SwiftUI experience. I build focused, h
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Status |
-|---|---|---|
-| **PulseAnvil** | HealthKit fitness tracker + watchOS companion | 🔨 In development |
-| [TaskFlow 2025](https://github.com/Joe-dev574/TaskFlow2025) | Domain tracking & goal management in SwiftUI | ✅ Public |
-| [TaskFlow Onboarding](https://github.com/Joe-dev574/TaskFlow-Onboarding) | Polished SwiftUI onboarding flow example | ✅ Public |
-
----
-
 ### Focus areas
 
 - **HealthKit integration** — reading, writing, syncing health data
